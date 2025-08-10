@@ -35,7 +35,7 @@ Fuzz everything! Now let's fuzz chip!
 | FormalFuzzer: Formal Verification Assisted Fuzz Testing for SoC Vulnerability Detection | ASP-DAC 2024| IEEE [link](https://ieeexplore.ieee.org/abstract/document/10473911) |  |
 | The Emergence of Hardware Fuzzing: A Critical Review of its Significance  |  Arxiv Survey 2024 |  arxiv [link](https://arxiv.org/abs/2403.12812) | |
 | DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing | ASPLOS 2025 | arXiv [link](https://arxiv.org/abs/2504.20934) | [link](https://github.com/sycuricon/DejaVuzz) |
-
+| FeedbackFuzz: Fuzzing Processors via Intricate Program Generation with Feedback Engine | ICASSP 2025 | IEEE [link](https://ieeexplore.ieee.org/document/10889404) |  |
 
 
 ## Courses
