@@ -130,6 +130,9 @@ Fuzz everything! Now let's fuzz chip!
 ### MICRO
 - **SymbFuzz: Symbolic Execution Guided Hardware Fuzzing**   
   Paper: [ACM link](https://dl.acm.org/doi/10.1145/3725843.3756131)· Code: _n/a_
+
+- **Sonar: A Hardware Fuzzing Framework to Uncover Contention Side Channels in Processors**   
+  Paper: [ACM link](https://dl.acm.org/doi/10.1145/3725843.3756136)· Code: _n/a_
 ### GLSVLSI
 - **Bridging the Gap between Hardware Fuzzing and Industrial Verification**  
   Paper: [arXiv link](https://arxiv.org/abs/2506.00461) · Code: [magicYang1573/fast-hw-fuzz](https://github.com/magicYang1573/fast-hw-fuzz)
