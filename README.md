@@ -136,7 +136,11 @@ Fuzz everything! Now let's fuzz chip!
 
 ### ICCAD
 - **PROFUZZ: Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis**    
-  Paper: [arXiv link](https://arxiv.org/abs/2509.20808) · Code: _n/a_  
+  Paper: [arXiv link](https://arxiv.org/abs/2509.20808) · Code: _n/a_
+
+### HOST
+- **RLFuzz: Accelerating Hardware Fuzzing with Deep Reinforcement Learning**    
+  Paper: [IEEE link](https://ieeexplore.ieee.org/document/11050051) · Code: _n/a_
 
 ### GLSVLSI
 - **Bridging the Gap between Hardware Fuzzing and Industrial Verification**  
