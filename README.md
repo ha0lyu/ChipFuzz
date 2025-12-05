@@ -129,12 +129,10 @@ Fuzz everything! Now let's fuzz chip!
 - **RISCover: Automatic Discovery of User-exploitable Architectural Security Vulnerabilities in Closed-Source RISC-V CPUs**
   Paper: [CCS link](https://publications.cispa.de/articles/conference_contribution/RISCover_Automatic_Discovery_of_User-exploitable_Architectural_Security_Vulnerabilities_in_Closed-Source_RISC-V_CPUs/30103966/1/files/57860827.pdf) · Code: [cispa/RISCover](https://github.com/cispa/RISCover-artifacts)
 
-- **RVISmith: Fuzzing Compilers for RVV Intrinsics**
-
+- **RVISmith: Fuzzing Compilers for RVV Intrinsics**     
   Paper: [CCS link](https://dl.acm.org/doi/10.1145/3719027.3744790) · Code: [zenodo](https://zenodo.org/records/15548270)
 
-- **DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction**
-
+- **DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction**    
   Paper: [CCS link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765167) · Code: [In2Sec/RISCover](https://github.com/In2Sec/DiveFuzz)
 
 ### NDSS
