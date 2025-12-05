@@ -126,7 +126,7 @@ Fuzz everything! Now let's fuzz chip!
   Paper: [USENIX link](https://www.usenix.org/system/files/usenixsecurity25-wu-lichao.pdf) · Code: _n/a_
 
 ### CCS
-- **RISCover: Automatic Discovery of User-exploitable Architectural Security Vulnerabilities in Closed-Source RISC-V CPUs**
+- **RISCover: Automatic Discovery of User-exploitable Architectural Security Vulnerabilities in Closed-Source RISC-V CPUs**   
   Paper: [CCS link](https://publications.cispa.de/articles/conference_contribution/RISCover_Automatic_Discovery_of_User-exploitable_Architectural_Security_Vulnerabilities_in_Closed-Source_RISC-V_CPUs/30103966/1/files/57860827.pdf) · Code: [cispa/RISCover](https://github.com/cispa/RISCover-artifacts)
 
 - **RVISmith: Fuzzing Compilers for RVV Intrinsics**     
