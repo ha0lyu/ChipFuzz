@@ -122,6 +122,27 @@ Fuzz everything! Now let's fuzz chip!
 - **Encarsia: Evaluating CPU Fuzzers via Automatic Bug Injection**  
   Paper: [USENIX link](https://www.usenix.org/conference/usenixsecurity25/presentation/bolcskei) · Code: [comsec-group/encarsia](https://github.com/comsec-group/encarsia)
 
+- **GenHuzz: An Efficient Generative Hardware Fuzzer**  
+  Paper: [USENIX link](https://www.usenix.org/system/files/usenixsecurity25-wu-lichao.pdf) · Code: _n/a_
+
+### CCS
+- **RISCover: Automatic Discovery of User-exploitable Architectural Security Vulnerabilities in Closed-Source RISC-V CPUs**
+  Paper: [CCS link](https://publications.cispa.de/articles/conference_contribution/RISCover_Automatic_Discovery_of_User-exploitable_Architectural_Security_Vulnerabilities_in_Closed-Source_RISC-V_CPUs/30103966/1/files/57860827.pdf) · Code: [cispa/RISCover](https://github.com/cispa/RISCover-artifacts)
+
+- **RVISmith: Fuzzing Compilers for RVV Intrinsics**
+
+  Paper: [CCS link](https://dl.acm.org/doi/10.1145/3719027.3744790) · Code: [zenodo](https://zenodo.org/records/15548270)
+
+- **DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction**
+
+  Paper: [CCS link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765167) · Code: [In2Sec/RISCover](https://github.com/In2Sec/DiveFuzz)
+
+### NDSS
+- **GoldenFuzz: Generative Golden Reference Hardware Fuzzing**  
+  Paper: _n/a_ · Code: _n/a_
+
+- **Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**  
+  Paper: _n/a_ · Code: _n/a_
 
 ### ASPLOS
 - **DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**   
@@ -138,24 +159,38 @@ Fuzz everything! Now let's fuzz chip!
 - **PROFUZZ: Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis**    
   Paper: [arXiv link](https://arxiv.org/abs/2509.20808) · Code: _n/a_
 
-### HOST
+- **BMCFuzz: Hybrid Verification of Processors by Synergistic Integration of Bound Model Checking and Fuzzing**    
+  Paper: [IEEE link](https://ieeexplore.ieee.org/document/11240887) · Code: [iscas-versys/BMCFuzz](https://github.com/iscas-versys/BMCFuzz)
+
+- **Invited Paper: CURE-Fuzz: Curiosity-Driven Reinforcement Learning for Agile Hardware Testing**    
+  Paper: [IEEE link](https://ieeexplore.ieee.org/document/11240915) · Code: _n/a_
+
+### DATE
+- **HFL: Hardware Fuzzing Loop with Reinforcement Learning**    
+  Paper: [IEEE link](https://ieeexplore.ieee.org/document/10993080) · Code: _n/a_
+
+
+### Others
 - **RLFuzz: Accelerating Hardware Fuzzing with Deep Reinforcement Learning**    
   Paper: [IEEE link](https://ieeexplore.ieee.org/document/11050051) · Code: _n/a_
 
-### GLSVLSI
+- **FuSS: Coverage-Directed Hardware Fuzzing with Selective Symbolic Execution**    
+  Paper: [ACM link](https://dl.acm.org/doi/10.1145/3760529) · Code: _n/a_
+
 - **Bridging the Gap between Hardware Fuzzing and Industrial Verification**  
   Paper: [arXiv link](https://arxiv.org/abs/2506.00461) · Code: [magicYang1573/fast-hw-fuzz](https://github.com/magicYang1573/fast-hw-fuzz)
 
 - **Microarchitecture Evaluation Framework for Transient Execution Attack Vulnerability: Metrics, Fuzzing, and Sensitivity Analysis**
   Paper: [ACM Link](https://dl.acm.org/doi/10.1145/3716368.3735225) · Code: _n/a_
 
-### Computers & Security
 - **HScheduler: An execution history-based seed scheduling strategy for hardware fuzzing**  
   Paper: [Elsevier link](https://www.sciencedirect.com/science/article/abs/pii/S0167404825001671) · Code: _n/a_
   
-### ICASSP
 - **FeedbackFuzz: Fuzzing Processors via Intricate Program Generation with Feedback Engine**   
   Paper: [IEEE link](https://ieeexplore.ieee.org/document/10889404) · Code: _n/a_
+
+- **SynFuzz: Leveraging Fuzzing of Netlist to Detect Synthesis Bugs**   
+  Paper: [arXiv link](https://www.arxiv.org/abs/2504.18812) · Code: _n/a_
 
 ---
 
