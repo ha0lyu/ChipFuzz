@@ -123,7 +123,7 @@ Fuzz everything! Now let's fuzz chip!
   Paper: [USENIX link](https://www.usenix.org/conference/usenixsecurity25/presentation/bolcskei) · Code: [comsec-group/encarsia](https://github.com/comsec-group/encarsia)
 
 - **GenHuzz: An Efficient Generative Hardware Fuzzer**  
-  Paper: [USENIX link](https://www.usenix.org/system/files/usenixsecurity25-wu-lichao.pdf) · Code:[ zenodo (partially available)_](https://zenodo.org/records/14727632)
+  Paper: [USENIX link](https://www.usenix.org/system/files/usenixsecurity25-wu-lichao.pdf) · Code:[ zenodo (partially available)](https://zenodo.org/records/14727632)
 
 ### CCS
 - **RISCover: Automatic Discovery of User-exploitable Architectural Security Vulnerabilities in Closed-Source RISC-V CPUs**   
