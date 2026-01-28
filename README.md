@@ -190,9 +190,6 @@ Fuzz everything! Now let's fuzz chip!
 - **SynFuzz: Leveraging Fuzzing of Netlist to Detect Synthesis Bugs**   
   Paper: [arXiv link](https://www.arxiv.org/abs/2504.18812) · Code: _n/a_
 
-- **FuSS: Coverage-Directed Hardware Fuzzing with Selective Symbolic Execution**   
-  Paper: [ACM link](https://dl.acm.org/doi/10.1145/3760529) · Code: _n/a_
-
 ---
 
 ## Related
