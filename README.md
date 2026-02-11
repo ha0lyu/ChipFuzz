@@ -140,7 +140,7 @@ Fuzz everything! Now let's fuzz chip!
   Paper: _n/a_ · Code: _n/a_
 
 - **Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**  
-  Paper: _n/a_ · Code: _n/a_
+  Paper: [arXiv link](https://arxiv.org/abs/2512.23438) · Code: [0xCCF4/ufuzz](https://github.com/0xCCF4/ufuzz)
 
 ### ASPLOS
 - **DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**   
