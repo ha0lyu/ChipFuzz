@@ -133,7 +133,7 @@ Fuzz everything! Now let's fuzz chip!
   Paper: [CCS link](https://dl.acm.org/doi/10.1145/3719027.3744790) · Code: [zenodo](https://zenodo.org/records/15548270)
 
 - **DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction**    
-  Paper: [CCS link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765167) · Code: [In2Sec/RISCover](https://github.com/In2Sec/DiveFuzz)
+  Paper: [CCS link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765167) · Code: [In2Sec/DiveFuzz](https://github.com/In2Sec/DiveFuzz)
 
 ### NDSS
 - **GoldenFuzz: Generative Golden Reference Hardware Fuzzing**  
