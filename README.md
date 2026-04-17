@@ -137,10 +137,13 @@ Fuzz everything! Now let's fuzz chip!
 
 ### NDSS
 - **GoldenFuzz: Generative Golden Reference Hardware Fuzzing**  
-  Paper: _n/a_ · Code: _n/a_
+  Paper: [arXiv link](https://arxiv.org/abs/2512.21524) · Code: _n/a_
 
 - **Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**  
   Paper: [arXiv link](https://arxiv.org/abs/2512.23438) · Code: [0xCCF4/ufuzz](https://github.com/0xCCF4/ufuzz)
+
+- **ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits**  
+  Paper: [arXiv link](https://arxiv.org/abs/2512.04436) · Code: _n/a_
 
 ### ASPLOS
 - **DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**   
@@ -152,6 +155,10 @@ Fuzz everything! Now let's fuzz chip!
 
 - **Sonar: A Hardware Fuzzing Framework to Uncover Contention Side Channels in Processors**   
   Paper: [ACM link](https://dl.acm.org/doi/10.1145/3725843.3756136)· Code: _n/a_
+
+### DAC
+- **BPUFuzzer: Effective Fuzz Testing for Branching Transient Execution Vulnerabilities of RISC-V CPU**   
+  Paper: [ACM link](https://dl.acm.org/doi/10.1109/DAC63849.2025.11133085)· Code: _n/a_
 
 ### ICCAD
 - **PROFUZZ: Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis**    
