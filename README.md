@@ -87,7 +87,8 @@ Fuzz everything! Now let's fuzz chip!
 ### USENIX Security
 - **WhisperFuzz: White-Box Fuzzing for Detecting and Locating Timing Vulnerabilities in Processors**     
   Paper: [USENIX link](https://www.usenix.org/conference/usenixsecurity24/presentation/borkar) · Artifact: [zenodo vulnerability artifact](https://zenodo.org/records/14166394)
-
+- **Cascade: CPU Fuzzing via Intricate Program Generation**  
+  Paper: [USENIX link](https://www.usenix.org/system/files/usenixsecurity24-solt.pdf) · Code: [comsec-group/cascade-artifacts](https://github.com/comsec-group/cascade-artifacts)
 
 ### DAC
 - **PathFuzz: Broadening Fuzzing Horizons with Footprint Memory for CPUs**   
@@ -124,6 +125,8 @@ Fuzz everything! Now let's fuzz chip!
 
 - **GenHuzz: An Efficient Generative Hardware Fuzzer**  
   Paper: [USENIX link](https://www.usenix.org/system/files/usenixsecurity25-wu-lichao.pdf) · Code:[ zenodo (partially available)](https://zenodo.org/records/14727632)
+- **Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks**  
+  Paper [USENIX link](https://www.usenix.org/conference/usenixsecurity25/presentation/de-faveri-tron) · Code: [vusec/phantom-trails](https://github.com/vusec/phantom-trails)
 
 ### CCS
 - **RISCover: Automatic Discovery of User-exploitable Architectural Security Vulnerabilities in Closed-Source RISC-V CPUs**   
@@ -134,6 +137,9 @@ Fuzz everything! Now let's fuzz chip!
 
 - **DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction**    
   Paper: [CCS link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765167) · Code: [In2Sec/DiveFuzz](https://github.com/In2Sec/DiveFuzz)
+- **MileSan: Detecting Exploitable Microarchitectural Leakage via
+Differential Hardware-Software Taint Tracking**  
+  Paper: [CCS link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765066) · Code: [comsec-group/milesan-docker](https://github.com/comsec-group/milesan-docker)
 
 ### NDSS
 - **GoldenFuzz: Generative Golden Reference Hardware Fuzzing**  
@@ -198,6 +204,11 @@ Fuzz everything! Now let's fuzz chip!
   Paper: [arXiv link](https://www.arxiv.org/abs/2504.18812) · Code: _n/a_
 
 ---
+
+## 2026
+### ISCA
+- **HARTBREAKER: Deterministic Fuzzing of Multi-Hart RISC-V CPUs with Non-Deterministic Programs**  
+  Paper: [comsec link](https://comsec-files.ethz.ch/papers/hartbreaker_isca26.pdf) · Code: [zenodo](https://zenodo.org/records/19417381)
 
 ## Related
 - **Recent Papers Related To Fuzzing (repo)**   
